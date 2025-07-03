@@ -1,0 +1,12 @@
+com\framework\pages\LoginPage.class
+ecom\TestSuite.class
+com\framework\tests\RegisterTest.class
+utils\LocatorUtils.class
+com\framework\pages\PlaceOrderPage.class
+com\framework\tests\LoginTest.class
+utils\ConfigUtils.class
+utils\ScreenshotUtils.class
+com\framework\pages\RegisterPage.class
+com\framework\tests\PlaceOrderTest.class
+ecom\AppTest.class
+ecom\Test.class
